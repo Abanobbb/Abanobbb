@@ -1,5 +1,5 @@
 - 🌱 Hi, I’m Abanoub
-- 🌱 I’m interested in artificial general intelligence, neuroscience and computational topology, integrated information theory, nature.. 👽 🧠 🐳 🦩 🐝
+- 🌱 I’m interested in artificial general intelligence, neuroscience and computational topology, integrated information theory, nature
 - 📫 @abanoub.twadros@gmail.com
 
 <!---
